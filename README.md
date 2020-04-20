@@ -9,9 +9,6 @@
    1. Example: `APPNAME=GET APPNAME FROM NICK`
 5. Run `npm install`
 6. Run `npm start`
-
-## TODO
-* Deploy this service
   
 ## Documentation
 url: `/api/v1/ebay`
